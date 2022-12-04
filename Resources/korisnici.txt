@@ -1,0 +1,2 @@
+﻿Pera;Peric;pera@gmail.com;peki;121346;MUSKI;STUDENT;False
+Pera;Peric;pera2@gmail.com;peki2;121343;MUSKI;PROFESOR;True
